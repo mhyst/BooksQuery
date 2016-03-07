@@ -1,0 +1,43 @@
+id	Titulo	Autor
+1949	Un santo sufí	Lings, Martin
+
+3466	Tres vidas de santos	Mendoza, Eduardo
+
+4459	Los santos inocentes	Delibes, Miguel
+
+5047	El viajero del día de Todos los Santos	Simenon, Georges
+
+7597	El santo ladrón	Peters, Ellis
+
+13522	El Santo contra El Tigre	Charteris, Leslie
+
+15099	Santo oficio de la memoria	Giardinelli, Mempo
+
+17086	Los santos de Agua Mansa, California	Espinoza, Alex
+
+17392	Un santo asesinato	Harding, Paul
+
+18140	El manuscrito del Santo Sepulcro	Neirynck, Jacques
+
+19267	La leyenda del Santo Bebedor	Roth, Joseph
+
+21931	Galahad. El hijo del Santo Grial	Miles, Rosalind
+
+24606	Demanda del Santo Grial	Anónimo
+
+26553	El santo de la Isidra	Arniches, Carlos
+
+28550	Camposanto	Jiménez, Iker
+
+28580	De lágrimas y de santos	Cioran, Emil
+
+28909	El santo	McCarty, Monica
+
+31826	La noche de todos los santos	Rice, Anne
+
+31991	Los caballeros del santo sepulcro	Berling, Peter
+
+34620	Huesos de santo	Conde, Alfredo
+
+35332	Los amantes de Todos los Santos	Vásquez, Juan Gabriel
+

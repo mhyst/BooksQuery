@@ -1,0 +1,156 @@
+Listado del directorio:  /home/julio
+T
+PlazaSoportales
+.gnome
+.steam
+.FFDec
+.bzr.log
+.gphoto
+.wireshark
+Steam
+.icedtea
+.putty
+.killingfloor
+Lilisp
+.profile
+.steampath
+.kde
+.Skype
+.aptitude
+.creepy
+Tropico 5
+Telegram
+.cache
+Plantillas
+.gnome2
+xbmc_crashlog-20151103_204821.log
+.googleearth
+Documentos
+.AndroidStudioBeta
+.gnome2_private
+.PlayOnLinux
+My Games
+chromium
+translog.20150509055614.log
+Natron
+.kabikaboo
+.gimp-2.8
+exif.xmp
+.purple
+PalacioExterior.skb
+GRTMPVOL_ES.toc
+5 Amazing Food Life Hacks Everyone MUST Know!-r3guCM3UU8s.mp4
+.ssh
+.pip
+.gstreamer-0.10
+.adobe
+Plaza.skp
+tdata
+.mozilla
+1.1
+.gnucash
+.bash_logout
+Plaza2.skp
+.minecraft
+.mono
+.skypecallrecorder.rc
+.lazarus
+.ICEauthority
+pruebas
+.Xauthority
+.bashrc
+.dmrc
+Peliculas
+Plaza.skb
+googleearth_6.0.3.2197+1.0-1_amd64.deb
+GRTMPVOL_ES.toc.bin
+=3.4.1
+.local
+.dbus
+bin
+Copia_automática_Sin título.skp
+.linuxmint
+Morroco Berber Music-CY5qE36_TtA.m4a
+.java
+Música
+.sqlite_history
+.gconf
+Vídeos
+datos
+.bash_history
+.TelegramDesktop
+.dropbox
+.nv
+bad-blocks
+.phablet_accepted
+.steampid
+.dosbox
+1451602426153-1451602426153.mp4.part
+.recently-used
+Imágenes
+RTVEPlayerVideo-RTVEPlayerVideo.swf
+Archivo
+.nvidia-settings-rc
+.dvdcss
+.gnupg
+.openshot
+.netbeans
+.audacity-data
+GoogleEarthLinux.bin
+AndroidStudioProjects
+yWriter5 Sample
+PapyreFb2 6.0
+test.qml
+My Kindle Content
+PalacioExterior.skp
+Documentos TV - El cazador de pederastas - Avance-3133221.mp4
+PlayOnLinux's virtual drives
+.android
+.mplayer
+NetBeansProjects
+.xsession-errors
+.VirtualBox
+EMDB
+.dropbox-dist
+.conkyrc
+.pki
+test.txt
+librosinternet.txt
+plano.dwg
+.thumbnails
+Android
+.filezilla
+.pulse-cookie
+xorg.conf.new
+Documents
+VirtualBox VMs
+Proyectos
+.thunderbird
+Updater
+.gradle
+.gsutil
+.wine
+.xbmc
+SkypeCalls
+Escritorio
+rygel.conf
+.subversion
+NAS
+Descargas
+fontconfig
+1.0
+qml.sh
+.macromedia
+.gksu.lock
+elementaryos
+Mr Robot 1x03 m720p vose-l66v6zodi4eg.mp4
+.odbc.ini
+.config
+.ttytterkey
+Mhyst
+Público
+.rpmdb
+Mr Robot S01E02 Ones and Zer0es mpeg 1080p WEB-DL DD5 1 H 264-RARBG 1-hbehh9lv6833.mp4
+.cinnamon
+Minecraft
+Fin listado

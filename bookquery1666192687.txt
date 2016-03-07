@@ -1,0 +1,139 @@
+id	Titulo	Autor
+675	El jardín de los dioses	Durrell, Gerald
+
+1462	Mundo de dioses	Marín Trechera, Rafael
+
+1886	Trilogía de los dioses	Torres Quesada, Ángel
+
+2914	¡Defendámonos de los dioses!	Freixedo, Salvador
+
+4072	El retorno de los dioses	Däniken, Erich von
+
+4877	El capricho de los dioses	Sheldon, Sidney
+
+6358	Entre dioses y terrícolas	Saiz Cidoncha, Carlos
+
+6623	La sombra de los dioses	Levack, Simon
+
+7348	La venganza de los dioses	Jacq, Christian
+
+7531	Los dioses guardianes	Wood, Barbara
+
+7600	Dioses menores	Pratchett, Terry
+
+8043	Dioses, tumbas y sabios	Ceram, C. W.
+
+9465	Los dioses no las prefieren castas y puras	Viadel Cicera, Luis
+
+9490	Los dioses de la pistola prehistórica	Santos, Domingo
+
+9685	El baile de los dioses	Roberts, Nora
+
+10189	El ocaso de los dioses de la estepa	Kadaré, Ismail
+
+10591	Dioses del mundo del río	Farmer, Philip José
+
+11771	Otros Dioses	Buck, Pearl S.
+
+11855	Negros son los dioses de mi África	Yerby, Frank
+
+11876	El legado de los cinco dioses	Bujold, Lois McMaster
+
+12491	Dioses y héroes de la antigua Grecia	Graves, Robert
+
+12537	La risa de los viejos dioses	Yerby, Frank
+
+13325	El crepúsculo de los dioses	Garnett, Richard
+
+13355	El sueño de los dioses	Negrete, Javier
+
+14228	El hostal de los Dioses Amables	Torrente Ballester, Gonzalo
+
+14419	Las naves de los dioses	Daniken, Erich von
+
+14696	El retorno de los dioses	Enguídanos Usach, Pascual
+
+14934	El refugio de los dioses	Enguídanos Usach, Pascual
+
+15592	Dioses de Marte	Burroughs, Edgar Rice
+
+17220	El amado de los dioses	Del Rey, Lester
+
+18962	El oro de los dioses	Däniken, Erich von
+
+19578	El mundo de los dioses	Torro, Pel
+
+19605	Los Dioses De La Guerra	Ludlow, Jack
+
+19620	Falsos dioses	Mcneill, Graham
+
+21695	Hombres como Dioses	Lanvers, Hernán
+
+21928	Revuelta en la Calle de los Dioses	Green, Simon R.
+
+22301	Los adioses	Onetti, Juan Carlos
+
+22307	Cuando los dioses escriben el libro del destino	Albinia, Alice
+
+22359	El alimento de los dioses	Wells, H. G.
+
+22790	En tierra de dioses	Ros, Emma
+
+23367	En el país de los dioses. Relatos de viaje por el Japón	Hearn, Lafcadio
+
+23833	Dioses y diablos mediáticos	Reig, Ramón
+
+23924	El aliento de los Dioses	Sanderson, Brandon
+
+24191	La cólera de los dioses nazis	Vereiter, Karl Von
+
+24315	Los dioses lloran sangre	Garland, Curtis
+
+24433	Cuando los dioses mueran	Ryan, Lem
+
+24647	El sol de los dioses	Garland, Curtis
+
+24971	La sepultura de los dioses	Garland, Curtis
+
+25042	Dioses sin hombres	Kunzru, Hari
+
+25726	Nuevos dioses	Vázquez Figueroa, Alberto
+
+26058	Falsos dioses	Joseph, Peter
+
+26382	La casa de los dioses de alabastro	Lasala, Magdalena
+
+26497	Dioses de un castigo celestial	Epstein, Jennifer
+
+28838	Los dioses de Gotham	Faye, Lyndsay
+
+29186	Hijo de dioses	Solé, Jordi
+
+29611	37 adioses al mundo	García Calvo, Agustín
+
+29656	El designio de los dioses	Solís Montera, Alfonso
+
+30340	Buscando a los antiguos dioses	Gallego, Eduardo & Sànchez, Guillem
+
+31162	Bestias, hombres, dioses	Ossendowsky, Ferdinand Antoine
+
+31326	La frontera de los dioses	Molinos, Luis
+
+31564	El camino de los dioses	Ray, Jean
+
+32224	El oro de los dioses	Sierra i Fabra, Jordi
+
+32464	El oro de los dioses	Cost, Alfonso & Roldán, Juan Bautista
+
+32544	La huella de los dioses	Autores, Varios
+
+32942	Dioses y legiones	Ford, Michael Curtis
+
+33896	Juego de dioses	Goñi, Carlos
+
+34134	Los propios dioses	Asimov, Isaac
+
+35338	Juego de dioses	Goyanes, Ángeles
+
+35746	Y los dioses atropellaron	Biset, Susana
+

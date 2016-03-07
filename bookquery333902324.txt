@@ -1,0 +1,9 @@
+id	Titulo	Autor
+12666	El misterio Cervantes	Delgado Cavilla, Pedro
+
+13747	Con Cervantes	Azorín
+
+28005	Misión Cervantes	Thor, Brad
+
+32295	La divina bastarda, Isabel de Cervantes	Luengo, Segismundo
+

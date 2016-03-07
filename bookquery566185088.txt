@@ -1,0 +1,279 @@
+Id		Título
+49		Los primeros hombres en la Luna
+
+501		La Luna es una cruel amante
+
+651		Luna sangrienta
+
+788		El brillo de la luna
+
+985		La luna de papel
+
+1270		La profecía de la luna roja
+
+1649		Luna funesta
+
+2742		La luna se ha puesto
+
+3041		El viento de la luna
+
+3236		Luna llena
+
+3739		Luna de miel
+
+3910		Las lunas de Júpiter
+
+4342		Los clanes de la luna alfana
+
+4671		El laberinto de la luna
+
+4847		La conspiración lunar ¡vaya timo!
+
+5025		El efecto de la Luna
+
+5197		Casta luna electrónica
+
+6647		La llamada de la luna
+
+6979		Las hijas de la luna roja
+
+8296		The Lunatic Cafe
+
+8872		Luna helada
+
+9095		Luna de invierno
+
+9476		El palacio de la luna
+
+9689		Claro de luna
+
+10081		El Ojo de la Luna
+
+10519		Pálida como la luna
+
+11046		Emily la de la luna nueva
+
+11118		Cuentos de Eva Luna
+
+11143		Eva Luna
+
+11425		Luna de Tor
+
+11862		La luna del traidor
+
+12615		Luna nueva
+
+12715		El complot de la media luna
+
+12924		El oráculo de la luna
+
+13002		La luna del dragón
+
+14066		La mujer del lunar
+
+14790		El error de la luna
+
+14919		La mujer de las nueve lunas
+
+14988		Luna de miel
+
+15541		La luna de diamante
+
+15556		La piedra lunar
+
+15608		Alguien robó la luna
+
+15650		Luna de Oriente
+
+15894		La luna de los asesinos
+
+16409		Casi la luna
+
+16528		El estanque de la luna
+
+17331		El jardinero de la luna
+
+17382		El secreto del "castillo de la luna"
+
+18330		Bajo La Luna
+
+18644		Luna comanche
+
+18996		Luna mentirosa
+
+19052		Luna De Plata
+
+19272		El templo de la luna
+
+19415		De la Tierra a la Luna
+
+19592		Esta noche no hay luna llena
+
+19667		Luna fría
+
+19938		La Luna Nueva
+
+19966		Luna de lobos
+
+20819		Lluna Nova
+
+20923		Luna de agosto
+
+21002		Mi Hermana La Luna
+
+21073		Alrededor de la Luna
+
+21145		El ojo de la luna
+
+22022		Dos lunas
+
+22120		El valle de la Luna
+
+22436		La madona de las siete lunas
+
+22509		La reina de las dos lunas
+
+22596		Las Montañas de la Luna: En busca de las fuentes del Nilo
+
+22681		Bajo el brillo de la Luna
+
+22704		Bajo Una Luna Misteriosa
+
+22769		La Sacerdotisa De La Luna
+
+22797		Los jardines de la Luna
+
+22942		Las lunas de Júpiter
+
+23092		Llévame a la Luna
+
+23110		La luna del leopardo
+
+23163		Luna de enfrente
+
+23468		La luna de Clea
+
+23741		La sombra de la luna
+
+23975		El Planeta De La Luna Roja
+
+24032		Extraños En La Luna
+
+24288		La criatura de la luna
+
+24318		Las lunas de Thorgan
+
+24703		Cuando sale la Luna
+
+24953		Los comandos de la Luna
+
+25000		La luna y el sol
+
+25273		El reino de la Luna
+
+25469		Luna negra
+
+25531		Desde donde estoy veo la Luna
+
+25617		Luna de miel en el espacio
+
+25860		La ciudad de la luna eterna
+
+25890		Luz de luna en Odessa
+
+25918		Lunar Park
+
+25925		La noche de la séptima luna
+
+26093		París, luna roja
+
+26123		Sangre a la luz de la Luna
+
+26676		La bahía de la luna verde
+
+26890		Nuestra Señora de la Luna
+
+26983		La casa de la luna
+
+27504		La noche de la luna negra
+
+27512		La luna de la medianoche
+
+27523		La cara oscura de la luna
+
+27550		El último trabajo del señor Luna
+
+27553		Luna caliente
+
+28862		Lágrimas de la Luna
+
+29255		El enigma de la Luna
+
+29461		La tragedia de la Luna
+
+30061		Un lado oscuro de la Luna
+
+30354		El invierno de la luna del lobo
+
+30827		La luna ha entrado en casa
+
+30932		Nilda. El sol, la luna, las estrellas. Otravida, otravez
+
+31115		Atrapa la luna
+
+31351		Brillo de luna
+
+31542		Noches de luna fría
+
+32372		La sombra de la luna roja
+
+32707		La luna no está
+
+32733		El jardín a la luz de la luna
+
+32910		El hombre que se enamoró de la Luna
+
+33274		Los grandes cementerios bajo la luna
+
+33418		Sangre en la luna
+
+33523		Los cazadores de la luna
+
+33542		Hijos De La Luna
+
+33620		Luna azul
+
+33638		El Conde Luna
+
+34111		Los tambores de la Luna Nueva
+
+34204		La marca de la Luna
+
+34363		El intenso calor de la luna
+
+34823		Nueve colores sangra la luna
+
+34834		Luna: Apogeo
+
+34924		Extraños a la luz de la luna
+
+34925		Amanecer a la luz de la luna
+
+35071		Encantamiento de luna
+
+35077		El camino de la luna
+
+35160		Atrapar la luna
+
+35413		La otra cara de la Luna
+
+35435		Sombra de luna
+
+35436		Luna oculta
+
+35438		Luna llena
+
+35440		Luz de luna
+
+35727		Iluminada por la luna
+

@@ -1,0 +1,50 @@
+Libros de: Pérez Reverte, Arturo
+
+
+Id		Título
+70		La tabla de Flandes
+
+75		El maestro de esgrima
+
+427		La reina del sur
+
+1040		El club Dumas
+
+1116		El pintor de batallas
+
+1360		La piel del tambor
+
+1708		La carta esférica
+
+3807		Patente de corso
+
+4687		El húsar
+
+5410		Un asunto de honor
+
+5714		El asedio
+
+6110		Limpieza de sangre
+
+6412		El sol de Breda
+
+6808		El oro del rey
+
+7572		El caballero del jubón amarillo
+
+7573		Corsarios de Levante
+
+8371		Territorio comanche
+
+11328		Cabo Trafalgar
+
+12222		El capitán Alatriste
+
+14063		Ojos azules
+
+23101		El tango de la Guardia Vieja
+
+25819		La sombra del águila
+
+29256		El francotirador paciente
+

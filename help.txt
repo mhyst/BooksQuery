@@ -1,0 +1,110 @@
+~ BookMailer ~
+
+Este es un servicio que pretende compartir libros entre un grupo de usuarios.
+Para ello partimos de la premisa de que al menos un usuario tiene el programa
+BookMailer instalado y los demás conocen su dirección de correo electrónico. 
+
+El programa atiende en una dirección de correo electrónico dada y responde a
+los comandos que los usuarios entreguen. Los comandos permitidos, de acuerdo con
+su estructura real son estos:
+
+Comandos permitidos:
+
+	books#search_author <nombre>
+	books#author_books <id>
+	books#search_by_title <titulo>
+	books#search_by_author <nombre>
+	books#get <id>
+	books#help main
+
+En un principio se pensó sólo consultar libros, pero dados los muchos posibles
+inconvenientes que se pueden dar en este medio electrónico, se decidió añadir
+una búsqueda únicamente de autor que permitiera listar todos los libros del
+autor escogido. Esos dos comandos son search_author y author_books.
+
+* search_author <nombre>
+
+Dado un nombre parcial o completo del autor, se busca en la base de datos y se
+responde con una lista de autores que coincidan, con sus respectivos códigos
+de identificación "id".
+
+* author_books <id>
+
+Con uno de los id's resultantes del comando anterior que permiten al usuario
+definir cual es el autor específico, se entrega un listado de los libros 
+registrados de tal autor. Estos se acompañan igualmente de código "id" que podrá
+ser utilizado para obtener el libro concreto con el comando "get".
+
+Los dos comandos siguientes permiten buscar en la base de datos de libros por
+título del libro o por el autor del mismo. Para tales búsquedas se usarán cadenas
+de caracteres sencillas que puedan adaptarse al nombre de un autor dado.
+
+* search_by_title <título>
+
+Dado un título de un libro o parte de él que pudiera coincidir con el título de uno
+tal, se devuelve un listado de los libros cuyos títulos pudieran coincidir, con la
+consabida indicación del código identificativo de cada uno de los libros.
+
+* search_by_author <nombre>
+
+Dado el nombre completo del autor o más bien parte de él, se harán constar todos los
+libros cuyo autor registrado coincida con el entregado por el usuario. Siendo posible
+introducir un nombre parcial, como "cervantes" o "herman", que puedan llevar a confusión
+sobre la verdadera autoría de los libros listados, se incluye así mismo el autor de cada
+cual. 
+
+Hago constar que en la base de datos los nombres de los autores están invertidos de esta
+forma y ejemplo: en lugar de "Miguel de Cervántes y Saavedra" aparece:
+	"Cervantes y Saavedra, Miguel de".
+Siendo esto causa de dificultad de las búsquedas que los usuarios quieran hacer, se recomienda
+precaución y provición al elegir la cadena de búsqueda apropiada. Como suele ser habitual no
+conocer la auténtica disposición del nombre del autor, y en algunos casos puede haber errores
+de transcripción en ellos, deben ser las búsquedas bien acotadas a lo que sabemos no variará.
+
+Por esto último he querido meter los dos comandos primeros, para permitir precisión y disminuir
+en alguna cantidad la dificultad y duda.
+
+
+***
+
+Una vez conocemos el "id" de la obra que queremos solicitar, habrá que hacer uso del comando "get".
+
+* books#get <id>
+
+Puesto que es necesario indicar el código de identificación de la obra así mismo como consta en la
+base de datos, se hace necesaria al menos una consulta anterior para llegar al conocimiento del mismo.
+
+El último comando es el que permite obtener el presente documento de ayuda que espero le sirva para
+entender y conocer como ha de usarse este servicio.
+
+* books#help main
+
+Este último comando no requiere de parámetros, pero sin poner un espacio y cualquier cosa detrás, no funcona.
+Ha sido diseñado para permitir a los usuarios recordar o entrar en conocimiento del uso de este servicio
+de BookMail que espero sea de alguna utilidad. 
+
+
+***
+
+Consideraciones finales
+-----------------------------------------------------------------------------------------------------------------
+
+En las peticiones, que deben hacerse por email al igual que han de recibirse las respuestas por ese medio,
+debe enviarse texto plano y evitar cualquier tipo de html o texto enriquecido de alguna forma que pueda
+confundir al subsistema que lee las peticiones conforme van llegando.
+
+Los parámetros que deben acompañar, si procede, a algunos de los comandos; han de ir sin comillas ni delimitación
+alguna, excepto el espacio que debe separarlo del comando en sí.
+
+La inicial parte donde dice "books#" es indicativo del subsistema que se encarga de consultar y enviar las obras.
+Debe ir siempre al principio y seguido del comando, sin espacios.
+
+Ejemplos
+-----------------------------------------------------------------------------------------------------------------
+
+books#search_author maquiavelo
+books#author_books 7599
+books#search_by_title celestina
+books#search_by_author stevenson
+books#get 29172
+

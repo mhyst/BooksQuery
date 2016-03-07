@@ -1,0 +1,26 @@
+Iniciando log - Mon Jan 11 18:47:58 CET 2016
+Deliverer por defecto - 127.0.0.1
+Petici�n - a�adir cola local lfiler:filer
+Cola lfiler creada y preparada para atender trabajos del tipo filer
+Petici�n - a�adir cola c�clica lmail:mailer
+Cola c�clica lmail creada y preparada para atender trabajos del tipo mailer con 5 reintentos
+Petici�n - a�adir cola local lcompose:compose
+Cola lcompose creada y preparada para atender trabajos del tipo compose
+Petici�n - a�adir cola local lnet:net
+Cola lnet creada y preparada para atender trabajos del tipo net
+Petici�n - a�adir cola local lhelper:help
+Cola lhelper creada y preparada para atender trabajos del tipo help
+Petici�n - a�adir cola local lmailr:mailr
+Cola lmailr creada y preparada para atender trabajos del tipo mailr
+Petici�n - a�adir cola local lbooks:books
+Cola lbooks creada y preparada para atender trabajos del tipo books
+Petici�n de a�adir trabajo wid-201601118489852-books-mhysterio@gmail.com al deliverer
+Trabajo wid-201601118489852-books-mhysterio@gmail.com sometido en la cola lbooks
+Petici�n de a�adir trabajo wid-201601118489854-mailer-mhysterio@gmail.com al deliverer
+Trabajo wid-201601118489854-mailer-mhysterio@gmail.com sometido en la cola lmail
+Petici�n de a�adir trabajo wid-201601118589763-books-mhysterio@gmail.com al deliverer
+Trabajo wid-201601118589763-books-mhysterio@gmail.com sometido en la cola lbooks
+Petici�n de a�adir trabajo wid-201601118589968-mailer-mhysterio@gmail.com al deliverer
+Trabajo wid-201601118589968-mailer-mhysterio@gmail.com sometido en la cola lmail
+Deliverer detenido
+Cerrando log - Mon Jan 11 19:40:39 CET 2016

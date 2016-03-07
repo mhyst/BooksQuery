@@ -1,0 +1,431 @@
+id	Titulo	Autor
+46	La guerra de los mundos	Wells, H. G.
+
+154	Vientos de guerra	Pressfield, Steven
+
+640	Vacas, cerdos, guerras y brujas. Los enigmas de la cultura	Harris, Marvin
+
+657	Guerra de guerrillas	Guevara, Ernesto
+
+841	Usos amorosos de la posguerra española	Martín Gaite, Carmen
+
+943	La guerra de los clanes	Jones, J. V.
+
+1232	Juegos de guerra	Bischoff, David
+
+1256	Capitán de mar y guerra	O´Brian, Patrick
+
+1623	El arte de la guerra	Tzu, Sun
+
+1657	La guerra civil española	Beevor, Antony
+
+1775	Episodios de una guerra	O´Brian, Patrick
+
+1807	Los Estados Unidos desde la Guerra Civil hasta la Primera Guerra Mundial	Asimov, Isaac
+
+1878	La guerra	Simmons, Dan
+
+2432	Fray Perico en la guerra	Muñoz Martín, Juan
+
+2708	Hubo una vez una guerra	Steinbeck, John
+
+3187	Señor de la guerra	Martínez de Lezea, Toti
+
+4406	Guerra en la cuenca del río Sauces	Mallorquí, José
+
+4571	Guerra a los djinns	Leinster, Murray
+
+4622	La guerra contra los rull	Van Vogt, A. E.
+
+4658	La guerra de las salamandras	Carr, Charles
+
+4675	Guerra de autómatas	Enguídanos Usach, Pascual
+
+4747	El último día de la guerra	Priest, Christopher
+
+4793	La guerra verde	Enguídanos Usach, Pascual
+
+4829	Las islas de la guerra	Torres Quesada, Ángel
+
+4940	La guerra de la paz	Vinge, Vernor
+
+5231	La guerra de Troya	Graves, Robert
+
+5412	La guerra de las salamandras	Capek, Karel
+
+6442	La guerra de los mercaderes	Pohl, Frederik
+
+6492	La guerra de Illearth	Donaldson, Stephen R.
+
+6645	Causas de la guerra de España	Azaña, Manuel
+
+6727	La guerra del Peloponeso	Kagan, Donald
+
+7408	El arte de la guerra	Yoshikawa, Eiji
+
+7934	La guerra de los enanos	Weis, Margaret & Hickman, Tracy
+
+7969	Las guerras de Napoleón	Esdaile, Charles
+
+8076	Guerra de sangre	Weinberg, Robert
+
+8447	Los dragones en guerra	autores, Varios
+
+8740	La guerra de la bruja	Clemens, James
+
+8749	La guerra del fin del mundo	Vargas Llosa, Mario
+
+9276	Piloto de guerra	Saint Exupéry, Antoine de
+
+9376	Las armas y las letras. Literatura y guerra civil (1936-1939)	Trapiello, Andrés
+
+9749	La guerra de las coronas	Jacq, Christian
+
+10149	La guerra más cruel	Bábchenko, Arkadi
+
+10286	Un trago antes de la guerra	Lehane, Dennis
+
+10451	Guerra de regalos	Card, Orson Scott
+
+10610	Ninguna guerra se parece a otra	Sistiaga, Jon
+
+10781	Una guerra breve y triunfal	Weber, David
+
+10863	La guerra de Hart	Katzenbach, John
+
+11004	La guerra de las Galias	César, Cayo Julio
+
+11298	La guerra de los señores del cielo	Brosnan, John
+
+11692	La Guerra Santa	Shea, Robert
+
+12576	La guerra del paraíso	Lawhead, Stephen R.
+
+12651	Noche de guerra en el Museo del Prado	Alberti, Rafael
+
+12968	Miserias de la guerra	Baroja, Pío
+
+13508	Historias secretas de la última Guerra Mundial	autores, Varios
+
+13634	La guerra de las reinas	Plaidy, Jean
+
+13688	La guerra desconocida	Skorzeny, Otto
+
+13724	Afganistán. Crónicas de un corresponsal de guerra	Melgarejo, Jorge
+
+13767	La guerra interminable	Haldeman, Joe
+
+13909	La Gran Guerra por la civilización	Fisk, Robert
+
+14075	Los siete pecados capitales del Imperio Alemán en la Primera Guerra Mundial	Haffner, Sebastian
+
+14215	El colapso de la República. Los orígenes de la Guerra Civil (1933-1936)	Payne, Stanley G.
+
+14539	Tereza Batista cansada de guerra	Amado, Jorge
+
+14699	Guerra de autoplanetas	Enguídanos Usach, Pascual
+
+14825	Actos de guerra	Clancy, Tom & Pieczenik, Steve
+
+14910	¡Guerra en las profundidades!	Quintana i Francia, Carles & Quintana i Fernández, Carles
+
+14928	La guerra del fuego	Rosny Aîné,  J. H.
+
+15607	Fiebre de guerra	Ballard, J. G.
+
+15739	La guerra de Al-Andalus	Aurensanz, Carlos
+
+15762	La guerra de la pólvora	Novik, Naomi
+
+15909	El señor de la guerra de Marte	Burroughs, Edgar Rice
+
+16054	De la guerra	Clausewitz, Karl Von
+
+16890	Misterio de los juegos de guerra	Maccay, William
+
+16957	Paz en la guerra	Unamuno, Miguel de
+
+17096	Diario de la guerra de España	Koltsov, Mijail
+
+17111	Historia de la Guerra del Peloponeso	Tucídides
+
+17281	La guerra desnuda	Lartéguy, Jean
+
+17291	Recuerdos de la guerra de España	Orwell, George
+
+17387	Guerra en el triangulo solar	Thorkent, A.
+
+17874	Días y noches de amor y de guerra	Galeano, Eduardo
+
+18144	La crisis de los años treinta: República y Guerra C	Tusell, Javier
+
+18415	Una historia de la guerra civil que no va a gustar a nadie	Eslava Galán, Juan
+
+18585	Diario de la guerra del cerdo	Bioy Casares, Adolfo
+
+18602	Los Estados Unidos desde 1816 hasta la Guerra Civil	Asimov, Isaac
+
+18725	Hitler ganó la guerra	Graziano, Walter
+
+18756	Las flores de la guerra	Yan, Geling
+
+19305	La guerra de los judíos	Josefo, Flavio
+
+19456	Guerra y paz	Tolstói, Liev
+
+19605	Los Dioses De La Guerra	Ludlow, Jack
+
+19619	Horus, el Señor de la Guerra	Abnett, Dan
+
+19698	La revolución y la guerra de España	Broué Y Emile Témine, Pierre
+
+19828	La verdadera guerra de los mundos	Barreiros, João
+
+19840	Los perros de la guerra	Forsyth, Friedrich
+
+19857	Los señores de la guerra	Klein, Gerard
+
+19994	La Guerra De España	Cleugh, James
+
+20697	Los grandes enigmas de La Primera Guerra Mundial 01	autores, Varios
+
+20752	Los grandes enigmas de la Primera Guerra Mundial 02	autores, Varios
+
+21112	Mañana, cuando la guerra empiece	Marsden, John
+
+21285	Las guerras de hierro	Kearney, Paul
+
+21515	Los grandes enigmas de la guerra secreta	autores, Varios
+
+21517	Los Grandes Enigmas De La Segunda Guerra Mundial (02)	autores, Varios
+
+21518	Los grandes enigmas de La Segunda Guerra Mundial (03)	autores, Varios
+
+21571	La guerra civil española 1	Thomas, Hugh
+
+21573	La guerra civil española 2	Thomas, Hugh
+
+21582	Habíamos ganado la guerra	Tusquets, Esther
+
+21644	Las guerras de los vampiros	Savile, Steven
+
+21735	La guerra de las dos Españas	Gárate Córdoba, José María
+
+21944	Los Grandes Enigmas De La Guerra Fría ( 01)	autores, Varios
+
+22005	La Guerra Civil Española	Arostegui, Julio
+
+22007	La guerra por el norte	López, Guillem
+
+22049	Los Grandes Enigmas De La Segunda Guerra Mundial (01)	autores, Varios
+
+22070	Guerra y vicisitudes de los españoles	Zugazagoitia Mendieta, Julían
+
+22094	Diario de un testigo de la guerra de África	Alarcón, Pedro Antonio de
+
+22138	Despachos de guerra	Herr, Michael
+
+22445	La guerra del francés	Lacueva, Amando
+
+22764	Cuba en tiempo de guerra	Davis, Richard Harding
+
+23201	La guerra de los seis días	Barker, A. J.
+
+23217	Un soldado de la Gran Guerra	Helprin, Mark
+
+23466	Sombras de guerra	Gressman, Thomas S.
+
+23475	Los grandes enigmas de la guerra fría 02	autores, Varios
+
+23577	Los grandes enigmas de la guerra fría 03	autores, Varios
+
+23677	Los grandes enigmas de la guerra fría 04	autores, Varios
+
+23791	La última guerra de Africa : (Campaña Ifni-Sáhara)	Casas de la Vega, Rafael
+
+23903	El camino de la guerra	Irving, David
+
+24085	Enigmas y misterios de la Segunda Guerra Mundial	Hernández, Jesús
+
+24173	La guerra de Troya	Clarke, Lindsay
+
+24211	Historias asombrosas de la Segunda Guerra Mundial	Hernández, Jesús
+
+24235	¿Por qué perdimos la guerra?	Abad De Santillán, Diego
+
+24313	Operaciones secretas de la Segunda Guerra Mundial	Hernández, Jesús
+
+24696	Los crímenes de la Guerra Civil y otras polémicas	Moa, Pío
+
+24746	La República española y la Guerra Civil	Jackson, Gabriel
+
+24999	Vientos de guerra	Wouk, Herman
+
+25418	Vientos de guerra	Wouk, Herman
+
+25443	Guerra Civil	Agustí, Ignacio
+
+25540	Tormentas de guerra: Warren y Janice	Wouk, Herman
+
+25952	La guerra más fría	Tregillis, Ian
+
+26009	Guerra y paz en el siglo XXI	Hobsbawm, Eric
+
+26052	Las guerras de Elena	Querol, Marta
+
+26249	La Guerra del Yom Kippur	Herzog, Chaim
+
+26314	El Dios de la guerra	Cameron, Christian
+
+26431	La Guerra Civil en Francia	Marx, Karl
+
+26986	Roscoe, negocios de amor y guerra	Kennedy, William
+
+27057	Postguerra	Judt, Tony
+
+27169	Guerra de Granada	Hurtado De Mendoza, Diego
+
+27299	La guerra naval en el Atlántico	Sierra, Luis de la
+
+27404	Las guerras secretas de Fidel Castro	Benemelis, Juan F.
+
+27409	La guerra de las piedras	Lanata, Jorge
+
+27431	Puck en pie de guerra	Werner, Lisbeth
+
+27533	La guerra de Vietnam	Appy, Christian G.
+
+27552	Guerra Mundial Z	Brooks, Max
+
+27876	La guerra del Pacífico	Schom, Alan
+
+27959	Guerra matrimonial	Lamb, Charlotte
+
+28302	Poemas sociales, de guerra y de muerte	Hernández, Miguel
+
+28327	El mal de la guerra	Faner, Pau
+
+28431	La segunda guerra mundial	Beevor, Antony
+
+28564	Guerra del pueblo	Giap, Vo Nguyen
+
+28627	El amor más grande. La historia de amor más conmovedora de la Segunda Guerra Mundial	Watkins, Olga
+
+28730	La guerra de Churchill	Hastings, Max
+
+28775	La segunda guerra mundial	Dahms, Hellmuth Guenther
+
+28820	La guerra secreta de Coco Chanel	Vaughan, Hal
+
+28822	Guerra	Junger, Sebastian
+
+28844	La guerra naval en el Pacífico	Sierra, Luis de la
+
+28917	Un rumor de guerra	Caputo, Philip
+
+29251	Corsarios alemanes en la segunda guerra mundial	Sierra, Luis de la
+
+29487	La Gran Guerra: la Primera Guerra Mundial al descubierto	Historia, Canal
+
+30010	La tumba de barro: Historia resumida de la Primera Guerra Mundial	Gallego, Alberto
+
+30434	Un talento para la guerra	McDevitt, Jack
+
+30550	Guerra de alados	Anderson, Poul
+
+30655	El miedo en la posguerra	Duro, Enrique González
+
+30724	¿Por qué la República perdió la guerra?	Payne, Stanley G.
+
+30725	40 preguntas fundamentales sobre la Guerra Civil	Payne, Stanley G.
+
+30836	1914-1918. Historia de la Primera Guerra Mundial	Stevenson, David
+
+30854	El hombre que puso final a las guerras	Guillén Allende, Imanol
+
+30933	Todo lo que debe saber sobre la Primera Guerra Mundial	Hernández, Jesús
+
+30966	Un Bergantín De Guerra	Woodman, Richard
+
+30967	1914. De la paz a la guerra	MacMillan, Margaret
+
+31090	La guerra de las mujeres Tomo II	Dumas, Alejandro
+
+31091	La guerra de las mujeres Tomo I	Dumas, Alejandro
+
+31170	Breve historia de la Primera Guerra Mundial	Lozano, Álvaro
+
+31175	Guerra de espías	Hope, Fielding
+
+31288	¡Otra maldita novela sobre la Guerra Civil!	Rosa, Isaac
+
+31373	La guerra que había que ganar	Murray, Williamson & Millett, Allan R.
+
+31764	Guerras de drones	Chencha, Antonio de
+
+31766	La Primera Guerra Mundial contada para escépticos	Eslava Galán, Juan
+
+31850	La guerra del general Escobar	Olaizola, José Luis
+
+31965	Pequeñas guerras, lugares remotos	Burleigh, Michael
+
+32014	Un escritor en guerra	Beevor, Antony
+
+32064	Star Wars. Guerras Clon. Medstar II: Curandera Jedi	Reaves, Michael & Perry, Steve
+
+32066	Star Wars - Guerras Clon - Medstar I: Médicos de guerra	Reaves, Michael & Perry, Steve
+
+32143	El color de la guerra	Scarborough, Elizabeth Ann
+
+32145	Rojas: las mujeres republicanas en la Guerra Civil	Nash, Mary
+
+32159	La guerra del cielo	González, José Antonio
+
+32187	La guerra olvidada	Halberstam, David
+
+32301	Partes de guerra	Autores, Varios
+
+32351	La guerra de los ivanes	Merridale, Catherine
+
+32740	La guerra que ganó Franco	Vidal, César
+
+32774	El crimen que desató la Guerra Civil	Semprún, Alfredo
+
+32781	Guerra de amor	Smith, Kathryn
+
+32998	En busca de la guerra de Troya	Wood, Michael
+
+33363	La guerra de los cielos	Trujillo, Fernando & García, César
+
+33364	La guerra de los cielos	Trujillo, Fernando & García, César
+
+33365	La guerra de los cielos	Trujillo, Fernando & García, César
+
+33648	La Segunda Guerra Mundial: la novela	Cosnava, Javier
+
+33650	La guerra de la duquesa	Milan, Courtney
+
+33822	Días de amor y de guerra	Anam, Tahmima
+
+33902	La guerra de los botones	Pergaud, Louis
+
+33963	La guerra secreta de Franco (1939-1945)	Ros Agudo, Manuel
+
+34115	La intervención fascista en la Guerra Civil española	Coverdale, John F.
+
+34284	La guerra de los capinegros	Pérez de Antón, Francisco
+
+34663	La guerra de los espejos	Beddor, Frank
+
+34707	Palomas de guerra	Preston, Paul
+
+34722	El dios de la guerra	Hancock, Grahan
+
+34915	Escritos sobre la guerra de España	Togliatti, Palmiro
+
+34929	Desaparecidos de la Guerra de España (1936-?)	Torres, Rafael
+
+35043	Hijos de la guerra	Martínez Reverte, Jorge & Thomás, Socorro
+
+35189	El vapor de guerra Blasco de Garay	Delgado Bañón, Luis
+

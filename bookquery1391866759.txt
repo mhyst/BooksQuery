@@ -1,0 +1,16 @@
+Libros de: Foucault, Michel
+
+
+Id		Título
+5096		Historia de la locura en la época clásica II
+
+5103		Historia de la locura en la época clásica I
+
+5105		Historia de la locura en la época clásica III
+
+5145		Vigilar y castigar
+
+23727		El orden del discurso
+
+33061		El nacimiento de la clínica
+

@@ -1,0 +1,13 @@
+Id		Nombre
+18		Pérez Reverte, Arturo
+
+263		Reverte, Javier
+
+3012		Martínez Reverte, Jorge
+
+3470		Perez reverte, Arturo
+
+4139		Pérez-Reverte, Arturo
+
+10525		Pérez-Reverte, Arturo
+

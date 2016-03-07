@@ -1,0 +1,23 @@
+id	Titulo	Autor
+2677	El ingenioso hidalgo don Quijote de la Mancha (vol.1)	Fernández de Avellaneda, Alonso
+
+5271	El Quijote como juego	Torrente Ballester, Gonzalo
+
+11895	Andanzas de don Quijote y Sancho	López Narváez, Concha
+
+13631	Monseñor Quijote	Greene, Graham
+
+13697	La ruta de Don Quijote	Azorín
+
+13703	El regreso de Don Quijote	Chesterton, Gilbert
+
+13814	Al morir Don Quijote	Trapiello, Andrés
+
+22212	La nueva salida del valeroso caballero don Quijote de La Mancha	Ledesma Hernández, Antonio
+
+23228	La noche en que Frankenstein leyó El Quijote	Posteguillo Gómez, Santiago
+
+24907	Quijote Z	G. González, Házael
+
+27243	El Quijote (anotado)	Cervantes Saavedra, Miguel de
+
